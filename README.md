@@ -32,8 +32,9 @@ Enter in the folder and execute the command "npx serve" to see the documentation
 
 #### Dependencies
   * Express
-  * mongoose
+  * Mongoose
   * Multer
+  * Cors
 
 </div>
 
@@ -46,6 +47,14 @@ Enter in the folder and execute the command "npx serve" to see the documentation
 </p>
 
 #### Dependencies
+  * React
+  * react-router-dom
+  * Axios
+
+### Commands
+
+  - "yarn" for install all dependencies
+  - "yarn start" to start the project
 
 ## Mobile
 
