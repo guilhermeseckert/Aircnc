@@ -22,6 +22,12 @@ The backend was developed on the js node with some dependencies.
 ## Insomnia
 
 Enter in the folder and execute the command "npx serve" to see the documentation.
+
+<p align="center">
+  <img width="460" height="300" src="img/insomnia.png">
+</p>
+
+
 <p align="center">
   <img width="460" height="300" src="img/Model.png">
 </p>
