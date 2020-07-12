@@ -7,19 +7,21 @@ I started this application for developing my skills in javaScript with some fram
 </div>
 
 <div>
+
 ## Backend
 
-Backend was devolped in nodejs with some dependecies.
+   
+
+The backend was developed on the js node with some dependencies.
 
 ### Commands
 
-- yarn for install all dependencies
-- yarn dev to start the project
+  - "yarn" for install all dependencies
+  - "yarn dev" to start the project
 
 ## Insomnia
-enter in the folder and execute the command "npx serve" for see the documentation.
 
-## imagens
+Enter in the folder and execute the command "npx serve" to see the documentation.
 <p align="center">
   <img width="460" height="300" src="img/Model.png">
 </p>
@@ -39,7 +41,6 @@ enter in the folder and execute the command "npx serve" for see the documentatio
 
 ## Frontend
 
-## imagen
 <p align="center">
   <img width="460" height="300" src="img/web.png">
 </p>
@@ -48,7 +49,6 @@ enter in the folder and execute the command "npx serve" for see the documentatio
 
 ## Mobile
 
-## imagen
 <p align="center">
   <img width="200" height="300" src="img/mobile.png">
 </p>
