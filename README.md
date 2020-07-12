@@ -12,6 +12,12 @@ I started this application for developing my skills in javaScript with some fram
 
 The backend was developed on the js node with some dependencies.
 
+#### Dependencies
+  * Express
+  * Mongoose
+  * Multer
+  * Cors
+
 <p align="center">
   <img width="460" height="300" src="img/Model.png">
 </p>
@@ -19,6 +25,8 @@ The backend was developed on the js node with some dependencies.
 <p align="center">
   <img width="460" height="300" src="img/Controller.png">
 </p>
+
+
 
 ### Commands
 
@@ -34,26 +42,21 @@ Enter in the folder and execute the command "npx serve" to see the documentation
 </p>
 
 
-#### Dependencies
-  * Express
-  * Mongoose
-  * Multer
-  * Cors
-
 </div>
 
 <div>
 
 ## Frontend
 
-<p align="center">
-  <img width="460" height="300" src="img/web.png">
-</p>
-
 #### Dependencies
   * React
   * react-router-dom
   * Axios
+
+<p align="center">
+  <img width="460" height="300" src="img/web.png">
+</p>
+
 
 ### Commands
 
@@ -62,11 +65,13 @@ Enter in the folder and execute the command "npx serve" to see the documentation
 
 ## Mobile
 
+#### Dependencies
+
+
 <p align="center">
   <img width="200" height="300" src="img/mobile.png">
 </p>
 
-#### Dependencies
 
 
 </div>
