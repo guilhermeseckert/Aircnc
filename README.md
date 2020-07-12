@@ -35,7 +35,7 @@ The backend was developed on the js node with some dependencies.
 
 ## Insomnia
 
-Enter in the folder and execute the command "npx serve" to see the documentation.
+Enter in the folder "insomnia" and execute the command "npx serve" to see the documentation.
 
 <p align="center">
   <img width="460" height="300" src="img/insomnia.png">
@@ -67,11 +67,14 @@ Enter in the folder and execute the command "npx serve" to see the documentation
 
 #### Dependencies
 
+  * React Native
+  * Expo
+  * Axios
+  * Expo-status-bar
 
 <p align="center">
   <img width="200" height="300" src="img/mobile.png">
 </p>
-
 
 
 </div>
