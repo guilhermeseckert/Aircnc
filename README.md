@@ -10,9 +10,15 @@ I started this application for developing my skills in javaScript with some fram
 
 ## Backend
 
-   
-
 The backend was developed on the js node with some dependencies.
+
+<p align="center">
+  <img width="460" height="300" src="img/Model.png">
+</p>
+
+<p align="center">
+  <img width="460" height="300" src="img/Controller.png">
+</p>
 
 ### Commands
 
@@ -27,14 +33,6 @@ Enter in the folder and execute the command "npx serve" to see the documentation
   <img width="460" height="300" src="img/insomnia.png">
 </p>
 
-
-<p align="center">
-  <img width="460" height="300" src="img/Model.png">
-</p>
-
-<p align="center">
-  <img width="460" height="300" src="img/Controller.png">
-</p>
 
 #### Dependencies
   * Express
