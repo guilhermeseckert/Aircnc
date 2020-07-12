@@ -2,7 +2,7 @@
   <img width="150" height="100" src="img/logo.png">
 </p>
 <div>
-I started this application for developing my skills in javaScript with some frameworks node Js, React & React Native. this application has the objective to help companys to provider spots for students and devs.
+I started this application for developing my skills in javaScript with some frameworks Node Js, React & React Native. this application has the objective to help companies to provide spots for students and devs.
 
 </div>
 
