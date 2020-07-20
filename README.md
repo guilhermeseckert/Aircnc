@@ -80,7 +80,7 @@ Enter in the folder "insomnia" and execute the command "npx serve" to see the do
   * Expo-status-bar
 
 <p align="center">
-  <img width="200" height="300" src="img/mobile.png">
+  <img width="150" height="200" src="img/mobile.png">
 </p>
 
 </div>
