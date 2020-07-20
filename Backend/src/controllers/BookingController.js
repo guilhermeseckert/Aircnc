@@ -1,4 +1,4 @@
-const Booking = require("../models/Booking");
+const Booking = require('../models/Booking');
 
 module.exports = {
   async store(req, res) {
@@ -13,7 +13,7 @@ module.exports = {
     });
 
     await booking.populate('spot').populate('user').execPopulate();
-    return res.json(booking)
-  }
+    return res.json(booking);
+  },
 
-}
+};

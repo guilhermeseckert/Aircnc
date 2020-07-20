@@ -5,16 +5,15 @@ const path = require('path');
 
 const routes = require('./routes');
 
-
 const app = express();
 
 mongoose.connect('mongodb+srv://dev:dev@cluster0-dr44q.mongodb.net/aircnc?retryWrites=true&w=majority', {
   useNewUrlParser: true,
   useUnifiedTopology: true,
-})
+});
 
 app.use(cors());
 app.use(express.json());
-app.use('/files', express.static(path.resolve(__dirname, '..', 'uploads' )));
+app.use('/files', express.static(path.resolve(__dirname, '..', 'uploads')));
 app.use(routes);
 app.listen(3333);
