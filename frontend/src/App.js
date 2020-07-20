@@ -1,22 +1,20 @@
 import React from 'react';
 import './App.css';
 
-import logo from './assets/logo1.svg'
+import logo from './assets/logo1.svg';
 
 import Routes from './routes';
 
-
 function App() {
-  
   return (
-    <div className= "container">
-      <img src={logo} alt= "logo"/>
+    <div className="container">
+      <img src={logo} alt="logo" />
 
-    <div className= "content">
-      <Routes/>
-      
+      <div className="content">
+        <Routes />
+
+      </div>
     </div>
-  </div>
   );
 }
 
